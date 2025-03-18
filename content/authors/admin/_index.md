@@ -165,4 +165,4 @@ languages:
 
 ## About Me
 
-I am a student at Aalto University.
+I am a student at Aalto University. Site is under construction
